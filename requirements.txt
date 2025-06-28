@@ -1,0 +1,7 @@
+crewai[tools]
+langchain
+langchain-community
+openai
+python-dotenv
+click
+shutil
