@@ -31,10 +31,9 @@ python cli.py
 
 ```
 3. Provide:
-
-Your OpenAI API Key
-Path to your CSV
-Your question/query about the dataset
+Your OpenAI API Key.
+Path to your CSV.
+Your question/query about the dataset.
 
 4. Check your 'report/analysis.md' for results
 
